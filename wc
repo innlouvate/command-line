@@ -1,0 +1,1 @@
+The word count command returns the number of sentances, words and characters in a file. Can be used with grep to count the number of lines meeting a set of criteria. 
